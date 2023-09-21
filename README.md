@@ -4,7 +4,7 @@
 Software developer with substantial expertise in machine learning, particularly in applying neural networks to natural language processing and computer vision initiatives. Recognized for the ability to quickly adapt to new innovations and collaborate effectively with teams. Actively seeking opportunities to leverage my skills in delivering impactful ML solutions.
 
 ## How to Reach Me
-- **Email**: _(vovolka.olga@gmail.com)_
+- **[Email](vovolka.olga@gmail.com)**
 - **[LinkedIn](https://www.linkedin.com/in/olha-vovolka27/)**
 
 ## Professional Interest
